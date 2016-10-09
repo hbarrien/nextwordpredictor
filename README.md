@@ -8,7 +8,7 @@ The project is composed of three parts:
   
   2. An R, next-word prediction program that uses the produced n-gram and term frequency data files for textual input processing.   
   
-  3. An R, Shiny Apps application used to test the prediction program online.   
+  3. An R, Shiny Apps application used to test the next-word prediction program online.   
 
 ## **SOURCE CODE**   
   * **capstone_DataProcessing_v3.R**   
