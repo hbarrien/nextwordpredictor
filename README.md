@@ -11,10 +11,10 @@ The project is composed of three parts:
 ## **SOURCE CODE**   
 **capstone_DataProcessing_v3.R**   
 
-**predictNextWord.R**   
+  * **predictNextWord.R**   
 
-**ui.R**   
+  * **ui.R**   
 
-**server.R**   
+  * **server.R**   
 
 ## **DATA FILES**   
