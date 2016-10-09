@@ -61,5 +61,5 @@ For development purposes on a local-machine, the directory structure should be a
          
          NOTE: for deployment to the Shiny Apps environment, include the following files on this directory:   
          term_freq_names.txt   
-         term_freq_ord_vector.txt
-         term_freq_vector.txt
+         term_freq_ord_vector.txt   
+         term_freq_vector.txt   
