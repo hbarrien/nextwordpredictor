@@ -37,7 +37,7 @@ Provided that the data owners don't delete them, the raw source data files may b
 https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip   
 
 ## **DIRECTORY STRUCTURE**   
-For development purposes on a local-machine, the directory structure should be as follows:
+For development and execution purposes on a local-machine, the directory structure should be as follows:
   + getwd()   
     + capstone   
       + scripts   
