@@ -33,7 +33,7 @@ The project is composed of three parts:
   
   * The tidy and transformed data files are also included in this project, although running __capstone_DataProcessing_v3.__ on the provided raw source data files will yield the same results.   
 
-Provided that data owners don't delete it, the raw source dataset may be found at:   
+Provided that the data owners don't delete it, the raw source dataset may be found at:   
 https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip   
 
 ## **DIRECTORY STRUCTURE**   
