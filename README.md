@@ -37,9 +37,9 @@ In order to facilitate the installation of this project, these data files are in
 
 ## **DIRECTORY STRUCTURE**   
 For development, local-machine purposes, the directory structure should be as follows:
-  getwd()   
-    capstone   
-      final   
-        en_US   
-        en_US_processed   
-      wordpredictor   
+  + getwd()   
+    + capstone   
+      + final   
+        + en_US   
+        + en_US_processed   
+      + wordpredictor   
