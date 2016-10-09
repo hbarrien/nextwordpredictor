@@ -2,8 +2,8 @@
 A Natural Language Processing R&D project   
 Developed by Herbert Barrientos   
 
-**DESCRIPTION**
+## **DESCRIPTION**   
 
-**SOURCE CODE**
+## **SOURCE CODE**   
 
-**DATA FILES**
+## **DATA FILES**   
