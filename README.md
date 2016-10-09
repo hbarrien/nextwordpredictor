@@ -61,13 +61,13 @@ For development and execution purposes on a local-machine, the directory structu
          + predictNextWord.R   
          server.R   
          ui.R   
-         bigram.txt (copied from the en_US_processed directory)   
-         pentagram.txt (copied from the en_US_processed directory)   
-         quadgram.txt (copied from the en_US_processed directory)   
-         sextagram.txt (copied from the en_US_processed directory)   
-         trigram.txt (copied from the en_US_processed directory)   
+         bigram.txt (copied from the _en_US_processed_ directory)   
+         pentagram.txt (copied from the _en_US_processed_ directory)   
+         quadgram.txt (copied from the _en_US_processed_ directory)   
+         sextagram.txt (copied from the _en_US_processed_ directory)   
+         trigram.txt (copied from the _en_US_processed_ directory)   
          
-         NOTE: for deployment to the Shiny Apps environment, copy the additional following files to this directory from the en_US_processed directory:   
+         NOTE: for deployment to the Shiny Apps environment, copy the additional following files to this directory from the _en_US_processed_ directory:   
          term_freq_names.txt   
          term_freq_ord_vector.txt   
          term_freq_vector.txt   
