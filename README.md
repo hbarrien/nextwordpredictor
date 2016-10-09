@@ -45,4 +45,21 @@ For development purposes on a local-machine, the directory structure should be a
           en_US.news.txt   
           en_US.twitter.txt   
         + en_US_processed   
+          + processed_corpus.txt   
+          term_freq_names.txt   
+          term_freq_ord_vector.txt   
+          term_freq_vector.txt   
       + wordpredictor   
+         + predictNextWord.R   
+         server.R   
+         ui.R   
+         bigram.txt   
+         pentagram.txt   
+         quadgram.txt   
+         sextagram.txt   
+         trigram.txt   
+         
+         NOTE: for deployment to the Shiny Apps environment, include the following files on this directory:   
+         term_freq_names.txt   
+         term_freq_ord_vector.txt
+         term_freq_vector.txt
