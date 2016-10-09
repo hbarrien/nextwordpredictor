@@ -1,2 +1,2 @@
-_Next Word Predictor_
+*Next Word Predictor*
 
