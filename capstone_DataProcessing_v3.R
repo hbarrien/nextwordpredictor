@@ -12,7 +12,7 @@
 # sextagrams) that are saved to disk. This input data is also used to create a word frequency 
 # vector that is also saved to disk. 
 #
-# All saved files will be used by the word-predicting algorithm.
+# All saved files will be used by the word-predicting program.
 # 
 # DATA PROCESSING DECISIONS
 # 1. Set the character encoding of all Corpus texts to LATIN1.
