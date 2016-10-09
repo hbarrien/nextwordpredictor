@@ -68,3 +68,8 @@ For development and execution purposes on a local-machine, the directory structu
          trigram.txt (copied from the _en_US_processed_ directory)   
          term_freq_names.txt (copied from the _en_US_processed_ directory)   
          term_freq_vector.txt (copied from the _en_US_processed_ directory)   
+
+## **SHINY APPS DEMO **   
+The demo may be tested at this URL:   
+https://hpbarr.shinyapps.io/wordpredictor/   
+   
