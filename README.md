@@ -15,7 +15,7 @@ The project is composed of three parts:
     For more implementation details, please read the program's internal documentation.   
     
   * **predictNextWord.R**   
-    # Program that predicts the "next word" for a given input string, which may consist of a single word or a phrase. The program first checks input validity. Next, the program determines what n-gram it should first use to start performing the prediction process. If the input string is one word, the program will use bigrams; two words, trigrams; three words, quadgrams; four word, pentagrams; five or more words, sextagrams.
+    # Program that predicts the "next word" for a given input string, which may consist of a single word or a phrase. The program first checks input validity. Next, the program determines what n-gram it should first use to start performing the prediction process. If the input string is one word, the program will use bigrams; two words, trigrams; three words, quadgrams; four word, pentagrams; five or more words, sextagrams.   
     
     Once the n-gram to begin with has been determined, the program will load the corresponding data file. A search is conducted to find matches for the input string. For every match, the last word is extracted  and used to predict its probability using the Chain Rule of Conditional Probability approach.
 
