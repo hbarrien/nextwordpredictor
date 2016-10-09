@@ -39,6 +39,8 @@ In order to facilitate the installation of this project, these data files are in
 For development purposes on a local-machine, the directory structure should be as follows:
   + getwd()   
     + capstone   
+      + scripts   
+        + capstone_DataProcessing_v3.R   
       + final   
         + en_US   
           + en_US.blogs.txt   
