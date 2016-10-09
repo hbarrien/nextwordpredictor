@@ -52,17 +52,22 @@ For development purposes on a local-machine, the directory structure should be a
           term_freq_names.txt   
           term_freq_ord_vector.txt   
           term_freq_vector.txt   
+          bigram.txt   
+          pentagram.txt   
+          quadgram.txt   
+          sextagram.txt   
+          trigram.txt   
       + wordpredictor   
          + predictNextWord.R   
          server.R   
          ui.R   
-         bigram.txt   
-         pentagram.txt   
-         quadgram.txt   
-         sextagram.txt   
-         trigram.txt   
+         bigram.txt (copied from the en_US_processed folder)   
+         pentagram.txt (copied from the en_US_processed folder)   
+         quadgram.txt (copied from the en_US_processed folder)   
+         sextagram.txt (copied from the en_US_processed folder)   
+         trigram.txt (copied from the en_US_processed folder)   
          
-         NOTE: for deployment to the Shiny Apps environment, include the following files on this directory:   
+         NOTE: for deployment to the Shiny Apps environment, copy the following files to this directory from the en_US_processed folder:   
          term_freq_names.txt   
          term_freq_ord_vector.txt   
          term_freq_vector.txt   
