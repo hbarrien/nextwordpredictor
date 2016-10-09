@@ -1,2 +1,7 @@
-*Next Word Predictor*
+Next Word Predictor
 
+DESCRIPTION
+
+SOURCE CODE
+
+DATA FILES
