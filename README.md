@@ -33,4 +33,13 @@ The project is composed of three parts:
   
   * The tidy and transformed data files are also included in this project, although running __capstone_DataProcessing_v3.__ on the provided raw source data files will yield the same results.   
 
-In order to facilitate the installation of this project, these data files are included in comprresed format under the name **final.zip**.
+In order to facilitate the installation of this project, these data files are included in comprresed format under the name **final.zip**.   
+
+## **DIRECTORY STRUCTURE**   
+For development, local-machine purposes, the directory structure should be as follows:
+  getwd()
+    capstone
+      final
+        en_US
+        en_US_processed
+      wordpredictor
