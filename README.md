@@ -10,11 +10,12 @@ The project is composed of three parts:
 
 ## **SOURCE CODE**   
 **capstone_DataProcessing_v3.R**   
-
-  * **predictNextWord.R**   
     Process that captures input data from various sources (blogs, news tweets), cleans it, and uses it to create six n-grams (i.e., bigrams, trigrams, quadgrams, pentagrams, and sextagrams) that are saved to disk. This input data is also used to create a word frequency vector that is also saved to disk. All saved files will be used by the word-predicting algorithm.   
     
-    For more implementation details, please read the program's internal documentation.   
+    For more implementation details, please read the program's internal documentation.  
+    
+  * **predictNextWord.R**   
+ 
     
   * **ui.R**   
 
