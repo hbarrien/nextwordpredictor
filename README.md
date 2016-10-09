@@ -66,5 +66,5 @@ For development and execution purposes on a local-machine, the directory structu
          quadgram.txt (copied from the _en_US_processed_ directory)   
          sextagram.txt (copied from the _en_US_processed_ directory)   
          trigram.txt (copied from the _en_US_processed_ directory)   
-         term_freq_names.txt(copied from the _en_US_processed_ directory)   
-         term_freq_vector.txt(copied from the _en_US_processed_ directory)   
+         term_freq_names.txt (copied from the _en_US_processed_ directory)   
+         term_freq_vector.txt (copied from the _en_US_processed_ directory)   
