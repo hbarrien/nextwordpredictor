@@ -9,5 +9,12 @@ The project is composed of three parts:
   3. A Shiny Apps application used to test the prediction algorithm online.   
 
 ## **SOURCE CODE**   
+**capstone_DataProcessing_v3.R**   
+
+**predictNextWord.R**   
+
+**ui.R**   
+
+**server.R**   
 
 ## **DATA FILES**   
