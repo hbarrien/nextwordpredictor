@@ -23,8 +23,7 @@ The project is composed of three parts:
     
     For more implementation details, please read the program's internal documentation.   
  
-  * **ui.R**   
-
-  * **server.R**   
+  * **ui.R and server.R**   
+      Shiny Apps programs.
 
 ## **DATA FILES**   
