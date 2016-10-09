@@ -24,7 +24,7 @@
 # the first word from the input, thus converting it to a four-word string. At this point, the program backs 
 # off and another state will begin another search process using pentagrams. Again, if no match is found, the 
 # "truncating state" will again remove the first word from the input and converts it to a three-word string. 
-# The program backs off again and another state will begin a search process using quadgrams. of no matches 
+# The program backs off again and another state will begin a search process using quadgrams. If no matches 
 # are found, the process repeats for trigrams and finally bigrams. If matches are found at any given state, 
 # the words with the highest probabilities are returned. If the "bigram state" is reached and no matches are 
 # retrieved, the program returns an empty string.
