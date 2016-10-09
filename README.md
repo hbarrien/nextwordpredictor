@@ -36,10 +36,13 @@ The project is composed of three parts:
 In order to facilitate the installation of this project, these data files are included in comprresed format under the name **final.zip**.   
 
 ## **DIRECTORY STRUCTURE**   
-For development, local-machine purposes, the directory structure should be as follows:
+For development purposes on a local-machine, the directory structure should be as follows:
   + getwd()   
     + capstone   
       + final   
         + en_US   
+          + en_US.blogs.txt   
+          en_US.news.txt   
+          en_US.twitter.txt   
         + en_US_processed   
       + wordpredictor   
