@@ -29,7 +29,7 @@ The project is composed of three parts:
       Shiny Apps programs.
 
 ## **DATA FILES**   
-  * The three raw source data files were provided by Swiftkey, comprising BLOGS, NEWS, and TWEETS. Although versions in several languages were provided, the English version was used for this project.   
+The three raw source data files were provided by Swiftkey, comprising BLOGS, NEWS, and TWEETS. Although versions in several languages were provided, the English version was used for this project.   
 
 Provided that the data owners don't delete them, the raw source data files may be found at this URL:   
 https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip   
