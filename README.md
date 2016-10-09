@@ -6,9 +6,9 @@ Developed by Herbert Barrientos
 The project is composed of three parts:   
   1. An R program that captures raw source data from three sources, performs data cleaning, and transforms the resulting tidy data into n-gram data files and term frequency data files.   
   
-  2. A next-word prediction program that uses the produced n-gram and term frequency data files for textual input processing.   
+  2. An R, next-word prediction program that uses the produced n-gram and term frequency data files for textual input processing.   
   
-  3. A Shiny Apps application used to test the prediction program online.   
+  3. An R, Shiny Apps application used to test the prediction program online.   
 
 ## **SOURCE CODE**   
   * **capstone_DataProcessing_v3.R**   
