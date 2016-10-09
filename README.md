@@ -67,7 +67,7 @@ For development and execution purposes on a local-machine, the directory structu
          sextagram.txt (copied from the _en_US_processed_ directory)   
          trigram.txt (copied from the _en_US_processed_ directory)   
          
-         NOTE: for deployment to the Shiny Apps environment, copy the additional following files to this directory from the _en_US_processed_ directory:   
+         + NOTE: for deployment to the Shiny Apps environment, copy the additional following files to this directory from the _en_US_processed_ directory:   
          term_freq_names.txt   
          term_freq_ord_vector.txt   
          term_freq_vector.txt   
